@@ -1,0 +1,24 @@
+# Blogs
+
+** How To Make Custom AI-Generated Text With GPT-2 : https://minimaxir.com/2019/09/howto-gpt2/
+** Train a GPT-2 Text-Generating Model w/ GPU (gpt-2-simple lib) : https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce
+GPT-2 Neural Network Poetry : https://gwern.net/gpt-2
+Generating an Edgar Allan Poe-Styled Poem Using GPT-2 : https://scottmduda.medium.com/generating-an-edgar-allen-poe-styled-poem-using-gpt-2-289801ded82c
+*** https://reyfarhan.com/posts/easy-gpt2-finetuning-huggingface/
+https://towardsdatascience.com/fine-tune-a-non-english-gpt-2-model-with-huggingface-9acc2dc7635b
+
+
+# Codes
+
+*** Persian poetry fine-tuning hooshvare : https://colab.research.google.com/github/hooshvare/parsgpt/blob/master/notebooks/Persian_Poetry_FineTuning.ipynb
+** gpt-2-colab : https://github.com/ak9250/gpt-2-colab
+gpt-2-poetry : https://github.com/kylemcdonald/gpt-2-poetry
+AI Poetry Generation with GPT-2 and aitextgen : https://colab.research.google.com/github/thunderclapinteractive/poetrywtf-nlp/blob/main/notebooks/generate_gpt_2_poetry_with_aitextgen.ipynb
+*** https://colab.research.google.com/github/philschmid/fine-tune-GPT-2/blob/master/Fine_tune_a_non_English_GPT_2_Model_with_Huggingface.ipynb
+
+
+
+https://huggingface.co/bolbolzaban/gpt2-persian
+https://huggingface.co/bigscience/mt0-small
+https://huggingface.co/HooshvareLab/gpt2-fa-poetry
+https://huggingface.co/HooshvareLab/gpt2-fa

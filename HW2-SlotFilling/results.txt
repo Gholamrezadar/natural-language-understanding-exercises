@@ -1,0 +1,35 @@
+# jointBERT:
+DEV=\
+{'eval_loss': 0.16572663366993065, 
+ 'intent_acc': 0.9892141756548536, 
+ 'slot_f1': 0.9585012688460965, 
+ 'slot_recall': 0.9631018449077546, 
+ 'slot_precision': 0.9539444361907592, 
+ 'semantic_frame_acc': 0.9838212634822804}
+
+TEST=\
+{'eval_loss': 0.1525889857749447,
+ 'intent_acc': 0.9937171432234901, 
+ 'slot_f1': 0.958185735675419, 
+ 'slot_recall': 0.9598331870061457, 
+ 'slot_precision': 0.9565439300036457, 
+ 'semantic_frame_acc': 0.9879471727144505}
+
+
+# Seq2SeqAttn:
+DEV=\
+{'eval_loss': 0.21431986328031197,
+ 'intent_acc': 0.980482794042116, 
+ 'slot_f1': 0.9401271467881203, 
+ 'slot_recall': 0.9381687340213994, 
+ 'slot_precision': 0.9420937529713796, 
+ 'semantic_frame_acc': 0.9722650231124808}
+ 
+TEST=\
+{'eval_loss': 0.20003750718763616, 
+ 'intent_acc': 0.9879471727144505, 
+ 'slot_f1': 0.9431164335500771, 
+ 'slot_recall': 0.9391624353659105, 
+ 'slot_precision': 0.9471038662094236, 
+ 'semantic_frame_acc': 0.9789716630337223}
+
